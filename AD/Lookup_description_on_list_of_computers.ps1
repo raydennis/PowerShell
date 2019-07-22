@@ -1,0 +1,1 @@
+﻿Import-Csv C:\scripts\lookupmachines.csv | ForEach-Object{Get-ADComputer $_.name -Properties Description | Select Description, Name}
