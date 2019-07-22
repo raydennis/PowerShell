@@ -1,0 +1,2 @@
+﻿#Run View
+&'C:\Program Files (x86)\VMware\VMware Horizon View Client\vmware-view.exe' "-serverURL https://it153horcon01.colleges.ad.unm.edu --loginAsCurrentUser 1 -desktopname 'Horizon Instant Clones' -NonInteractive 1 -desktopLayout fullscreen -connectUSBonInsert -hideClientAfterLaunchSession 1"

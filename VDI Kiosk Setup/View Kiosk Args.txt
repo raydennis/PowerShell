@@ -1,0 +1,1 @@
+-serverURL https://it153horcon01.colleges.ad.unm.edu -useExisting 1 -loginAsCurrentUser 1 -desktopname "Horizon Instant Clones" -connectusboninsert 0 -noninteractive 1 -unattended 1 -desktopLayout fullscreen
